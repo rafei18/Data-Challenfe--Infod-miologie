@@ -11,6 +11,11 @@ Ce projet a été réalisé dans le cadre du Data Challenge de Centrale Lille en
 
 ## Pipeline du projet
 
+
+<p align="center">
+  <img src="img/prearchitecture.png" alt="ETL">
+</p>
+
 ### Extraction des données
 
 - **Sources** : Doctissimo, Carenity.
